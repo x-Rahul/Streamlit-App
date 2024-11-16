@@ -1,4 +1,3 @@
-
 import streamlit as st 
 import pandas as pd
 import numpy as np
@@ -12,7 +11,7 @@ import pickle
 import seaborn as sns
 
 # page title
-st.title("Page Title")
+st.title("Predictions App(in development")
 
 # get the data
 st.write("Upload Dataset in csv format")
