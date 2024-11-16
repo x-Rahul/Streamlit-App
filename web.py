@@ -11,7 +11,7 @@ import pickle
 import seaborn as sns
 
 # page title
-st.title("Predictions App(in development")
+st.title("Predictions App(in development)")
 
 # get the data
 st.write("Upload Dataset in csv format")
